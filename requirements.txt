@@ -1,0 +1,5 @@
+# Core runtime dependencies
+pypdf>=4.0            # PDF text extraction (maintained successor of PyPDF2)
+python-docx>=1.1.0   # DOCX text extraction
+streamlit>=1.30.0    # Web interface
+pandas>=2.0.0        # Tabular results / CSV export

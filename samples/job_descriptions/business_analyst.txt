@@ -1,0 +1,26 @@
+Business Analyst (Business Informatics)
+
+We are hiring a Business Analyst to bridge business needs and IT solutions. You
+will gather requirements, model processes and help deliver enterprise software
+projects in an agile environment.
+
+Required Skills:
+- Requirements Analysis
+- Process Modeling
+- SQL
+- Stakeholder Management
+
+Preferred Skills:
+- SAP
+- ERP
+- Jira
+- Power BI
+
+Experience:
+- 2+ years of experience as a business analyst or in a related role
+- Experience working with cross-functional teams in agile projects
+
+Responsibilities:
+- Elicit, document and analyse business requirements
+- Model and improve business processes (BPMN)
+- Translate requirements into user stories for development teams

@@ -1,0 +1,25 @@
+Elif Yilmaz
+Business Analyst
+elif.yilmaz@example.com | Munich, Germany
+
+Summary
+Business analyst with 4 years of experience bridging business and IT. Background
+in business informatics, specialising in requirements analysis and process
+modeling for enterprise software projects.
+
+Skills
+Requirements Analysis, Process Modeling, BPMN, Stakeholder Management, SQL, SAP,
+ERP, Jira, Agile, Scrum, Power BI, User Stories, UML
+
+Experience
+Business Analyst — Enterprise Solutions GmbH (2021 - Present)
+- Gathered and documented business requirements for SAP ERP rollouts
+- Modelled business processes using BPMN and mapped gaps
+- Translated requirements into user stories in Jira for agile teams
+- Built reporting dashboards in Power BI
+
+Working Student — ConsultIT (2020 - 2021)
+- Supported requirements gathering and stakeholder workshops
+
+Education
+B.Sc. in Business Informatics

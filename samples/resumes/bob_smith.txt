@@ -1,0 +1,19 @@
+Bob Smith
+Junior Web Developer
+bob.smith@example.com | Austin, TX
+
+Summary
+Junior web developer with 1 year of experience building small web applications.
+Eager to grow into backend development.
+
+Skills
+JavaScript, React, Python, SQL, Git, HTML, CSS
+
+Experience
+Junior Developer — WebStart Agency (2023 - Present)
+- Built frontend features in React and JavaScript
+- Wrote simple Python scripts to automate tasks
+- Queried data using SQL
+
+Education
+B.Sc. in Information Technology

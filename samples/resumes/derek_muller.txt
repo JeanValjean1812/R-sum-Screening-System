@@ -1,0 +1,25 @@
+Derek Muller
+HR People Analytics Lead
+derek.muller@example.com | Berlin, Germany
+
+Summary
+People-focused HR professional with 7 years of experience in human resources and
+people analytics. Skilled at turning workforce data into insights that improve
+recruiting, retention and performance management.
+
+Skills
+People Analytics, HRIS, Workday, SAP SuccessFactors, Recruiting, Talent Acquisition,
+Onboarding, Performance Management, Excel, Power BI, SQL
+
+Experience
+People Analytics Lead — GlobalTech (2019 - Present)
+- Built HR dashboards in Power BI on hiring, attrition and engagement
+- Owned reporting from Workday and SAP SuccessFactors HRIS
+- Partnered with leadership on talent acquisition and recruiting strategy
+
+HR Business Partner — Northwind (2017 - 2019)
+- Managed onboarding and performance management processes
+- Analysed people data in Excel and SQL
+
+Education
+M.A. in Human Resource Management

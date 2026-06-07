@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "required_skills": 0.50,
+    "preferred_skills": 0.25,
+    "experience": 0.15,
+    "keywords": 0.10
+  },
+  "experience": {
+    "default_target_years": 3
+  },
+  "keywords": {
+    "top_n": 15
+  }
+}

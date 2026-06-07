@@ -1,0 +1,20 @@
+Frank Chen
+Data Analyst
+frank.chen@example.com | Toronto, Canada
+
+Summary
+Data analyst with 2 years of experience turning raw data into clear, actionable
+dashboards and reports for business stakeholders.
+
+Skills
+SQL, Excel, Power BI, Tableau, Python, Pandas, Statistics, ETL, Data Visualization
+
+Experience
+Data Analyst — RetailIQ (2022 - Present)
+- Built and maintained dashboards in Power BI and Tableau
+- Wrote SQL queries and Python/Pandas scripts to clean and analyse data
+- Ran statistical analyses and presented findings to stakeholders
+- Designed ETL processes to consolidate data from multiple sources
+
+Education
+B.Sc. in Statistics

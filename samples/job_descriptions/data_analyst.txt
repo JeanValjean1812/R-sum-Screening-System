@@ -1,0 +1,26 @@
+Data Analyst
+
+We are looking for a Data Analyst to help our teams make better decisions with
+data. You will build dashboards, run analyses and communicate insights to
+non-technical stakeholders.
+
+Required Skills:
+- SQL
+- Excel
+- Power BI
+- Statistics
+
+Preferred Skills:
+- Python
+- Tableau
+- Pandas
+- ETL
+
+Experience:
+- 2+ years of experience in data analysis or business intelligence
+- Experience building dashboards and reports
+
+Responsibilities:
+- Collect, clean and analyse data from multiple sources
+- Build and maintain dashboards and visualisations
+- Present findings and recommendations to stakeholders
