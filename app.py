@@ -65,8 +65,8 @@ sample_jds = _load_sample_jds()
 # ------------------------------------------------------------------- sidebar
 with st.sidebar:
     st.header("⚙️ Settings")
-    max_workers = mp.cpu_count()
-    workers = st.slider("Parallel workers", 1, max(max_workers, 1), max(max_workers, 1))
+    max_workers = max(mp.cpu_count(), 1)
+    workers = st.slider("Parallel workers", 1, max_workers, max_workers)
     top_n = st.number_input("Show top N (0 = all)", min_value=0, value=0, step=1)
     st.markdown("---")
     st.subheader("Scoring weights")
